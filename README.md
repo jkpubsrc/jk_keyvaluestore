@@ -8,8 +8,8 @@ This python module implements a simple key-value data base based on JSON data st
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_keyvaluestore)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-keyvaluestore)
+* [pypi.org](https://pypi.org/project/jk-keyvaluestore/)
 
 ### Goals
 
